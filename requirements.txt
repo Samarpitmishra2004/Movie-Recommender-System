@@ -1,0 +1,5 @@
+You should install following libraries to run this app:
+streamlit
+pandas
+numpy
+requests
